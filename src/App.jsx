@@ -10,7 +10,8 @@ import {
   Globe, 
   ExternalLink, 
   RotateCcw,
-  Languages
+  Languages,
+  AlertCircle
 } from 'lucide-react';
 
 const UrlBuilder = () => {
